@@ -118,6 +118,6 @@ int main()
 			{
 				cout << "*";
 			}
-			cout << "\n";
+			cout << endl;
 		}
 }
